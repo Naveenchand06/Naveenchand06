@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveenchand</h1>
-<h3 align="center">A young enthusiast who has passion for innovation in Software development.</h3>
+<h3 align="center">A young enthusiast who has a passion for innovations in Software development.</h3>
 
 
 
