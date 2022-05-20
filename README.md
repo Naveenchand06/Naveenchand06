@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/Naveenchand06/naveenchand06/master/hello_nc.gif"  style="margin: 10px 10px 10px 10px; border-radius: 10px;">
  
  </p> <h3 align="center">An enthusiastic person with a passion for Mobile and web technologies</h3>
- <p align="center"> Flutter Developer 💙  || Student 👨🏼‍🎓|| Self-Taught 🤵🏼|| 21 || Intern 👨‍💻 || Learning 🏃‍♂️ || Exploring Web3 🏄🏻‍♂️ </p>
+ <p align="center"> Flutter Developer 💙  || Student 👨🏼‍🎓|| Self-Taught 🤵🏼|| 21 || Freelancer 👨‍💻 || Learning 🏃‍♂️ || Exploring Web3 🏄🏻‍♂️ </p>
 
 
 
