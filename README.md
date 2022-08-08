@@ -1,7 +1,7 @@
 <p float="center">
     <img src="https://raw.githubusercontent.com/Naveenchand06/naveenchand06/master/hello_nc.gif"  style="margin: 10px 10px 10px 10px; border-radius: 10px;">
  
- </p> <h3 align="center">An energetic individual with a passion for Mobile and web technologies</h3>
+ </p> <h3 align="center">As an energetic individual I got keen interest towards Mobile and web technologies</h3>
  <p align="center"> Flutter Developer 💙 || Self-Taught 🤵🏼 || Freelancer 👨‍💻 || Learning 🏃‍♂️ || Exploring Web3 🏄🏻‍♂️ </p>
 
 
