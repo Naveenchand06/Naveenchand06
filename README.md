@@ -3,6 +3,10 @@
  
  </p> <h3 align="center">I'm an energetic individual who is keen to learn new technologies and have worked on a variety of projects. I have a passion for Mobile and Web development, and I enjoy working on both frontend and backend of the applications.</h3>
  <p align="center"> Flutter developer 💙 | Freelancer 👨‍💻 | Self-Taught 🧘🏻‍♂️| Exploring DevOps 🌍</p>
+ 
+- I'm currently working as a software developer at a startup 
+- I'm currently learning about devops
+- Ask me about Flutter, Devops, Linux
 
 
 
