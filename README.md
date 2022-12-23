@@ -3,11 +3,11 @@
  
 <!--  </p> <h3 align="center">I'm an ene</h3> -->
  <p align="center"> Flutter developer 💙 | Freelancer 👨‍💻 | Self-Taught 🧘🏻‍♂️| Exploring DevOps 🌍</p>
- <div align="center">
+ 
 - I'm currently working as a software developer at a startup 
 - I'm currently learning about devops
 - Ask me about Flutter, Devops, Linux
-   <div> 
+  
 
 
 
