@@ -1,3 +1,6 @@
+<p float="center">
+    <img src="https://raw.githubusercontent.com/Naveenchand06/naveenchand06/master/hello_nc.gif"  style="margin: 10px 10px 10px 10px; border-radius: 10px;">
+
 # 💫 About Me:
 🔭 I’m currently working as a Software Developer in a Startup<br>👯 I’m looking to collaborate on DevOps, Flutter Development<br>🌱 I’m currently learning DevOps<br>💬 Ask me about Flutter, Node.js, Linux, DevOps<br>⚡ I enjoy working on both the Front-End and Back-End of the applications.<br>
 
