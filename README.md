@@ -2,11 +2,11 @@
     <img src="https://raw.githubusercontent.com/Naveenchand06/naveenchand06/master/hello_nc.gif"  style="margin: 10px 10px 10px 10px; border-radius: 10px;">
 
 # 💫 About Me:
-- 🔭 I’m currently working with Flutter and Node.js<br>
+- 🔭 I’m currently working with Flutter and Go<br>
 - 🌱 I am currently learning React, Kubernetes, Jenkins<br>
-- 👯 I’m looking to collaborate on DevOps,Flutter, Node.js<br>
-- 💬 Ask me about Flutter, Docker, Node.js, Linux, DevOps<br>
-- ⚡ I enjoy working on both the Front-End and Back-End of the applications<br>
+- 👯 I’m looking to collaborate on DevOps, Flutter, Go<br>
+- 💬 Ask me about Flutter, Docker, Go, Linux, DevOps<br>
+- ⚡ I enjoy working on both the Mobile and Back-End of the applications<br>
 
 
 ## 🌐 Socials:
