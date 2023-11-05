@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working with Flutter and Go<br>
-- 🌱 I am currently learning React, Kubernetes, Jenkins<br>
+- 🌱 I am currently learning Go, Kubernetes, Jenkins<br>
 - 👯 I’m looking to collaborate on DevOps, Flutter, Go<br>
 - 💬 Ask me about Flutter, Docker, Go, Linux, DevOps<br>
 - ⚡ I enjoy working on both the Mobile and Back-End of the applications<br>
