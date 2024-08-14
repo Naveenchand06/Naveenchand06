@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Naveenchand</h1>
 <h4 align="center">Passionate about harnessing the power of Docker 🐳, Kubernetes 🧩, Terraform 🔧, AWS ☁️, GCP 🌍, and GitOps 🔄! As a dedicated Flutter 💙 full-stack architect, I thrive on delivering top-notch projects from front to back. Currently diving deep into the world of DevOps and mastering Go 🚀, while actively contributing to exciting open source projects 📂. Freelancing as a tech aficionado 👨‍💻, always exploring the latest in technology!</h4>
-<br>
+
 <h6 align="center">DevOps 🌐 | Flutter 💙 | Open Source 📂 | Freelancer 👨‍💻</h6>
 
 <p align="left"> <a href="https://twitter.com/naveenchand0606" target="blank"><img src="https://img.shields.io/twitter/follow/naveenchand0606?logo=twitter&style=for-the-badge" alt="naveenchand0606" /></a> </p>
