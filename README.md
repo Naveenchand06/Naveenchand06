@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/naveenchand0606" target="blank"><img src="https://img.shields.io/twitter/follow/naveenchand0606?logo=twitter&style=for-the-badge" alt="naveenchand0606" /></a> </p>
 
-- 🔭 I’m currently working with **Go, Kubernetes, Docker, AWS, GitHub Actions**
+- 🔭 I’m currently working with **Go, Kubernetes, Docker, AWS, GitHub Actions, Helm**
 
-- 🌱 I’m currently learning **Terraform, Helm**
+- 🌱 I’m currently learning **Ansible, GitOps**
 
-- 👯 I’m looking to collaborate on **Kubernetes, Docker, Flutter, Go**
+- 👯 I’m looking to collaborate on **Kubernetes, Docker, Cloud, Go, Flutter**
 
-- 🤝 I’m looking for help with **Kubernetes, Terraform**
+- 🤝 I’m looking for help with **Terraform**
 
 - 👨‍💻 All of my projects are available at [https://bio.link/naveenchand](https://bio.link/naveenchand)
 
