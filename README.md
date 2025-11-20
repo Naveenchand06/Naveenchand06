@@ -2,9 +2,10 @@
     <img src="https://raw.githubusercontent.com/Naveenchand06/naveenchand06/master/hello_nc.gif"  style="margin: 10px 10px 10px 10px; border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Naveenchand</h1>
-<h4 align="center">🔧 DevOps 🌐 enthusiast with hands-on experience in Kubernetes 🧩, Docker 🐳, AWS ☁️, and the ELK stack 📊, building reliable and scalable systems. From automating pipelines to simplifying complex infrastructures, I enjoy creating smooth and efficient deployments. Actively exploring open source projects 📂 and sharing knowledge. Always curious and driven to learn more in the world of DevOps! 🚀</h4>
+<h4 align="center">🔧 DevOps engineer focused on automation, security, and building scalable Cloud-Native solutions. Skilled in Kubernetes, Docker, networking, and multi-cloud environments. 
+</h4>
 
-<h6 align="center">DevOps 🌐 | Open Source 📂 | Freelancer 👨‍💻 | Flutter </h6>
+<h6 align="center">DevOps 🌐 | Open Source 📂 </h6>
 
 <p align="left"> <a href="https://twitter.com/naveenchand0606" target="blank"><img src="https://img.shields.io/twitter/follow/naveenchand0606?logo=twitter&style=for-the-badge" alt="naveenchand0606" /></a> </p>
 
