@@ -2,8 +2,7 @@
     <img src="https://raw.githubusercontent.com/Naveenchand06/naveenchand06/master/hello_nc.gif"  style="margin: 10px 10px 10px 10px; border-radius: 10px;">
 
 <h1 align="center">Hi 👋, I'm Naveenchand</h1>
-<h4 align="center">🔧 DevOps engineer focused on automation, security, and building scalable Cloud-Native solutions. Skilled in Kubernetes, Docker, networking, and multi-cloud environments. 
-</h4>
+<h4 align="center"> Bridging Code and Cloud as a DevSecOps Engineer, specializing in Secure, Automated, and Scalable Cloud-Native Solutions.</h4>
 
 <h6 align="center">DevOps 🌐 | Open Source 📂 </h6>
 
